@@ -1,6 +1,6 @@
 # hello-world
-Prueba de repositorio
+Prueba de Repositorio
 =================================
-INSTALAR PAQUETE EN LINUX
-
-GRACIAS POR VER
+INSTALAR PAQUETE EN RASPBIAN
+GRACIAS POR COLABORAR
+EN ESTE REPOSITORIO
